@@ -51,7 +51,7 @@ $pota_entries = array_reverse($pota_entries);
     <style>
         body {
             font-family: 'Arial', sans-serif;
-            background-color: #f4f7fa;
+            background-color:rgb(37, 37, 37);
             margin: 0;
             padding: 20px;
             display: flex;
@@ -60,7 +60,7 @@ $pota_entries = array_reverse($pota_entries);
             min-height: 100vh;
         }
         .container {
-            background-color: #ffffff;
+            background-color:rgb(77, 76, 76);
             padding: 20px;
             border-radius: 10px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
