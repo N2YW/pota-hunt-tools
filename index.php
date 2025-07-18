@@ -60,7 +60,7 @@ $pota_entries = array_reverse($pota_entries);
             min-height: 100vh;
         }
         .container {
-            background-color:rgb(77, 76, 76);
+            background-color:rgb(235, 233, 233);
             padding: 20px;
             border-radius: 10px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
